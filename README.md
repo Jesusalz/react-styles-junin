@@ -1,8 +1,2 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hoy, implementamos y estilizamos los formularios de inicio de sesión y registro utilizando Tailwind CSS, asegurando un diseño responsivo y amigable para el usuario. Además, comenzamos a desarrollar la página de productos, creando componentes para listar productos y mostrar información relevante. Se mejoró la experiencia visual con efectos de hover y un diseño limpio. 
